@@ -1,9 +1,12 @@
 # Команды для запуска
 
+
+**Установка пакетов**
 ```txt
-    npm i
+npm i
 ```
 
+**Запуск сервера**
 ```txt
-    npm run server
+npm run server
 ```
