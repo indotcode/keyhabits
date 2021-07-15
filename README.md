@@ -1,5 +1,9 @@
-# Запуск
+# Команды для запуска
 
-npm i
+```txt
+    npm i
+```
 
-npm run server
+```txt
+    npm run server
+```
